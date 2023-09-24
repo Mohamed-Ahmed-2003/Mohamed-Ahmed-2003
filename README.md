@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mo.19.ahmed.47@gmail.com**
 
-- ⚡ Fun fact **I am so serious**
+- ⚡a Fact about me **In the world of coding, every bug I encounter is just an opportunity to sharpen my problem-solving skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
