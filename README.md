@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-ahmed-2003" alt="mohamed-ahmed-2003" /></a> </p>
 
-- 🔭 I’m currently working on **Courses management system Application**
+- 🔭 I’m currently working on **Fullstack web apps**
 
-- 🌱 I’m currently learning **.NET,Angular**
-
-- 👨‍💻 All of my projects are available at [https://mohamed-ahmed-portfolio.netlify.app/](https://mohamed-ahmed-portfolio.netlify.app/)
+- 👨‍💻 my projects are available at [https://mohamed-ahmed-portfolio.netlify.app/](https://mohamed-ahmed-portfolio.netlify.app/)
 
 - 📫 How to reach me **mo.19.ahmed.47@gmail.com**
 
